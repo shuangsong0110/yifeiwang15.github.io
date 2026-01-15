@@ -49,9 +49,28 @@ interests:
 
 education:
   - area: Postdoctoral Researcher
-    institution: Harvard University
+    institution: Harvard University (2024 - Present)
     date_start: 2024-01-01
     date_end: 2024-01-02
+    #end: '2024'
+    #date_display: '2024 - Present'
+    #summary: '2022 - Present'  
+  - area: Ph.D. in Statistics (2019-2024)
+    institution: Tsinghua University
+    date_start: 2019-01-01
+    date_end: 2024-01-01
+    summary: |
+      - GPA: 3.98/4.0, Rank: 1/49
+  - area: B.S. in Mathematics
+    institution: Tsinghua University (2015-2019)
+    date_start: 2015-01-01
+    date_end: 2019-01-01
+  - area: Researcher
+    institution: University of Oxford (2022-2023)
+    institution: Yale University (2018)
+    date_start: 2022-01-01
+    date_end: 2023-01-01
+
 
 
 
