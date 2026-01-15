@@ -155,5 +155,5 @@ languages:
 
 ## About Me
 
-Test received her Ph.D. degree in Computer Science at Brandeis University. She earned her bachelor's degree in Mathematics from Tsinghua University. Her research focuses on graph neural networks, multimodal learning, fairness, and generative models, with interdisciplinary work in AI4Science and healthcare.
+Test received her Ph.D. degree in ...testurl**NeurIPS** and **ICML** ([test url](https://google.com)). She earned her bachelor's degree in Mathematics from Tsinghua University. Her research focuses on graph neural networks, multimodal learning, fairness, and generative models, with interdisciplinary work in AI4Science and healthcare.
 {style="color: black"}
