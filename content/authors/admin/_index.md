@@ -48,30 +48,30 @@ interests:
   - AI4Science
 
 education:
-  - degree: Postdoctoral Researcher
+  - area: Postdoctoral Researcher
     institution: Harvard University
-    start: 2024-01-01
+    date_start: 2024
     #end: '2024'
     #date_display: '2024 - Present'
     #summary: '2022 - Present'  
-  - degree: Ph.D. in Statistics
+  - area: Ph.D. in Statistics
     institution: Tsinghua University
-    start: 2019-01-01
-    end: 2024-01-01
+    date_start: 2019-01-01
+    date_end: 2024-01-01
     summary: |
       - GPA: 3.98/4.0, Rank: 1/49
-  - degree: Researcher
+  - area: Researcher
     institution: University of Oxford
-    start: 2022-01-01
-    end: 2023-01-01
-  - degree: B.S. in Mathematics
+    date_start: 2022-01-01
+    date_end: 2023-01-01
+  - area: B.S. in Mathematics
     institution: Tsinghua University
-    start: 2015-01-01
-    end: 2019-01-01
-  - degree: Researcher
+    date_start: 2015-01-01
+    date_end: 2019-01-01
+  - area: Researcher
     institution: Yale University
-    start: 2018-01-01
-    end: 2018-01-01
+    date_start: 2018-01-01
+    date_end: 2018-01-01
 
 
 
