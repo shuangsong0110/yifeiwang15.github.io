@@ -50,7 +50,8 @@ interests:
 education:
   - area: Postdoctoral Researcher
     institution: Harvard University
-    date_start: 2024
+    date_start: 2024-01-01
+    date_end: 2024-01-01
     #end: '2024'
     #date_display: '2024 - Present'
     #summary: '2022 - Present'  
