@@ -55,8 +55,8 @@ education:
     #end: '2024'
     #date_display: '2024 - Present'
     #summary: '2022 - Present'  
-  - area: Ph.D. in Statistics (2019-2024)
-    institution: Tsinghua University
+  - area: Ph.D. in Statistics
+    institution: Tsinghua University (2019-2024)
     date_start: 2019-01-01
     date_end: 2024-01-01
     summary: |
@@ -67,6 +67,7 @@ education:
     date_end: 2019-01-01
   - area: Researcher
     institution: University of Oxford (2022-2023)
+  - area: Researcher
     institution: Yale University (2018)
     date_start: 2022-01-01
     date_end: 2023-01-01
