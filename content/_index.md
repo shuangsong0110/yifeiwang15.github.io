@@ -17,7 +17,12 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: resume.pdf
+        #url: resume.pdf
+      headings:
+        about: ''
+        #education: 'Work Experience'
+        education: 'Experience & Education'
+        interests: ''
     design:
       css_class: light
       background:
