@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Yifei Wang
+title: First Last
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Yifei 
-last_name: Wang
+first_name: First 
+last_name: Last
 
 # Status emoji
 status:
@@ -29,16 +29,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:yifeiwang2025@gmail.com'
+    url: 'mailto:shuangsong@hsph.harvard.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/yifeiwang15
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yifei-wang-4980691b8/
+    url: https://github.com/shuangsong0110
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/in/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?&user=il36IMQAAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-8295-5534
+    url: [https://scholar.google.com/citations?&user=il36IMQAAAAJ](https://scholar.google.com/citations?hl=zh-CN&user=5-3t3mYAAAAJ&view_op=list_works&sortby=pubdate)
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/0000-0002-8295-5534
 
 interests:
   - Deep Learning
@@ -146,5 +146,5 @@ languages:
 
 ## About Me
 
-Yifei Wang received her Ph.D. degree in Computer Science at Brandeis University. She earned her bachelor's degree in Mathematics from Tsinghua University. Her research focuses on graph neural networks, multimodal learning, fairness, and generative models, with interdisciplinary work in AI4Science and healthcare.
+Test received her Ph.D. degree in Computer Science at Brandeis University. She earned her bachelor's degree in Mathematics from Tsinghua University. Her research focuses on graph neural networks, multimodal learning, fairness, and generative models, with interdisciplinary work in AI4Science and healthcare.
 {style="color: black"}
