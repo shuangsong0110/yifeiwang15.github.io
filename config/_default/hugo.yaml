@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Yifei Wang's Homepage
+title: Test1 Test2's Homepage
 # Website URL
-baseURL: 'https://yifeiwang15.github.io'
+baseURL: 'https://shuangsong0110.github.io'
 
 ############################
 ## LANGUAGE
