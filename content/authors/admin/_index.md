@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctral Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -129,28 +129,27 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Cooking
-        description: 'After spending a year at home during the COVID-19 pandemic, I’ve mastered the art of becoming a chef! I enjoy cooking Chinese, Japanese, and American cuisine.'
-        percent: 100
+      - name: Piano
+        #percent: 100
         icon: ''
-      - name: Gaming
-        description: 'Big fan of many anime-style games such as Genshin Impact, Honkai Star Rail, Fate Grand Order, Pokemon, and Animal Crossing. Next pull you will get a 5-star item!'
-        percent: 100
+      - name: Photography
+        #description: 'Big fan of many anime-style games such as Genshin Impact, Honkai Star Rail, Fate Grand Order, Pokemon, and Animal Crossing. Next pull you will get a 5-star item!'
+        #percent: 100
         icon: ''
       - name: Singing
-        description: 'Used to be a soprano in the Chorus Team of the Tsinghua University Student Art Troupe.'
-        percent: 100
+        #description: 'Used to be a soprano in the Chorus Team of the Tsinghua University Student Art Troupe.'
+        #percent: 100
         icon: ''
-languages:
-  - name: English
-    description: Fluent
-    percent: 90
-  - name: Chinese
-    description: Native
-    percent: 100
-  - name: Japanese
-    description: Beginner
-    percent: 20
+#languages:
+  #- name: English
+  #  description: Fluent
+  #  percent: 90
+  #- name: Chinese
+  #  description: Native
+  #  percent: 100
+ # - name: Japanese
+  #  description: Beginner
+  #  percent: 20
 ---
 
 ## About Me
