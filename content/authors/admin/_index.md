@@ -82,8 +82,8 @@ work:
     company_name: Kuang-chi Institute of Advanced Science and Technology
     #company_url: 'https://www.biogen.com/'
     #company_logo: 'Biogen_logo.svg.png'
-    date_start: 2021-06
-    date_end: 2021-08
+    #date_start: 2021-06
+    #date_end: 2021-08
     #summary: |
     #  - AI-aided drug design
     #  - Generative AI for small molecule design
