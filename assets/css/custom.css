@@ -1,14 +1,14 @@
 /* 让整行正常显示 */
-.description p.text-sm {
+/*.description p.text-sm {
   font-weight: normal;
-}
+}*/
 
 /* 只让前面的部分加粗（通过覆盖第一个文本节点） */
-.description p.text-sm {
+/*.description p.text-sm {
   font-weight: 700;
   display: inline;
 }
 
 .description p.text-sm::after {
   font-weight: normal;
-}
+}*/
