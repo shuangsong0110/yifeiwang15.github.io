@@ -27,7 +27,7 @@ publishDate: '2025-06-20T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the National Academy of Sciences
+publication: Proceedings of the National Academy of Sciences (PNAS)
 publication_short: PNAS
 
 abstract: "It is increasingly recognized that participation bias can pose problems for genetic studies. Recently, to overcome the challenge that genetic information of nonparticipants is unavailable, it is shown that by comparing the IBD (identity by descent) shared and not-shared segments between participating relative pairs, one can estimate the genetic component underlying participation. That, however, does not directly address how to adjust estimates of heritability and genetic correlation for phenotypes correlated with participation. Here, we demonstrate a way to do so by adopting a statistical framework that separates the genetic and nongenetic correlations between participation and these phenotypes. Crucially, our method avoids making the assumption that the effect of the genetic component underlying participation is manifested entirely through these other phenotypes. Applying the method to 12 UK Biobank phenotypes, we found eight that have significant genetic correlations with participation, including body mass index, educational attainment, and smoking status. For most of these phenotypes, without adjustments, estimates of heritability and the absolute value of genetic correlation would have underestimation biases."
