@@ -1,30 +1,25 @@
 ---
-title: 'Performance and improvement strategies for adapting generative large language models for electronic health record applications: A systematic review'
+title: 'Participation bias in the estimation of heritability and genetic correlation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xinsong Du
-  - Zhengyang Zhou
   - admin
-  - Ya-Wen Chuang
-  - Yiming Li
-  - Richard Yang
-  - Pengyu Hong
-  - David W. Bates
-  - Li Zhou
+  - Stefania Benonisdottir
+  - Jun S. Liu
+  - Augustine Kong
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2025-08-25T00:00:00Z'
+date: '2025-06-20T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-08-25T00:00:00Z'
+publishDate: '2025-06-20T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -32,36 +27,30 @@ publishDate: '2025-08-25T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: International Journal of Medical Informatics
-publication_short: IJMEDI
+publication: Proceedings of the National Academy of Sciences
+publication_short: PNAS
 
-abstract: "Purpose: To synthesize performance and improvement strategies for adapting generative LLMs in EHR analyses and applications.  Methods: We followed the PRISMA guidelines to conduct a systematic review of articles from PubMed and Web of Science published between January 1, 2023 and November 9, 2024. Multiple reviewers including biomedical informaticians and a clinician involved in the article reviewing process. Studies were included if they used generative LLMs to analyze real-world EHR data and reported quantitative performance evaluations for an improvement technique. The review identified key clinical applications, summarized performance and the improvement strategies. Results: Of the 18,735 articles retrieved, 196 met our criteria. 112 (57.1%) studies used generative LLMs for clinical decision support tasks, 40 (20.4%) studies involved documentation tasks, 39 (19.9%) studies involved information extraction tasks, 11 (5.6%) studies involved patient communication tasks, and 10 (5.1%) studies included summarization tasks. Among the 196 studies, most studies (88.8%) did not quantitatively evaluate the LLM performance improvement strategies, with the rest twenty-four studies (12.2%) quantitatively evaluated the effectiveness of in-context learning (9 studies), fine-tuning (12 studies), multimodal integration (8 studies), and ensemble learning (2 studies). Three studies highlighted that few-shot prompting, fine-tuning, and multimodal data integration might not improve performance, and another two studies found that fine-tuning a smaller model could outperform a large model. Conclusion: Applying a performance improvement strategy may not necessarily lead to performance improvement, and detailed guidelines regarding how to apply those strategies more effectively and safely are needed, which can be completed from more quantitative analysis in the future."
+abstract: "It is increasingly recognized that participation bias can pose problems for genetic studies. Recently, to overcome the challenge that genetic information of nonparticipants is unavailable, it is shown that by comparing the IBD (identity by descent) shared and not-shared segments between participating relative pairs, one can estimate the genetic component underlying participation. That, however, does not directly address how to adjust estimates of heritability and genetic correlation for phenotypes correlated with participation. Here, we demonstrate a way to do so by adopting a statistical framework that separates the genetic and nongenetic correlations between participation and these phenotypes. Crucially, our method avoids making the assumption that the effect of the genetic component underlying participation is manifested entirely through these other phenotypes. Applying the method to 12 UK Biobank phenotypes, we found eight that have significant genetic correlations with participation, including body mass index, educational attainment, and smoking status. For most of these phenotypes, without adjustments, estimates of heritability and the absolute value of genetic correlation would have underestimation biases."
 
 # Summary. An optional shortened abstract.
-summary: "We conduct a comprehensive review of recent studies that leverage generative LLMs for EHR analysis and applications, focusing on their performance and strategies for improvement."
+summary: "We develop a statistical model that systematically evaluates the impact of participation bias on heritability and genetic correlation estimates."
 tags:
-  - Large Language Model
-  - AI For Healthcare
-  - Survey 
+  - Participation Bias
+  - IBD
+  - Heritability
+  - Genetic correlation
+  - GWAS 
 
 # Display this page in the Featured widget?
 featured: true
 
 # Standard identifiers for auto-linking
-doi: 10.1016/j.ijmedinf.2025.106091
+doi: 10.1073/pnas.2425530122
 
 # Custom links
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1386505625003089?via%3Dihub
+url_pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.2425530122
   # - type: code
-  #   url: https://github.com/yifeiwang15/ACML
-  # - type: dataset
-  #   url: https://github.com/HugoBlox/hugo-blox-builder
-  # - type: slides
-  #   url: https://www.slideshare.net/
-  # - type: source
-  #   url: https://github.com/HugoBlox/hugo-blox-builder
-  # - type: video
-  #   url: https://youtube.com
+  #   url: https://github.com/shuangsong0110/ParticipationBias
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
