@@ -1,23 +1,22 @@
 ---
-title: Oral Presentation of My Dissertation Proposal at CS PhD Retreat
+title: Invited Presentation in ICSA 2025
 
-event: Brandeis CS PhD Retreat 2024
+event: 1111
 event_url: 
 
-location: Brandeis University
-address:
-  city: Waltham
-  region: MA
-  country: United States
+location: Uconn
+#address:
+#  city: Waltham
+#  region: MA
+#  country: United States
 
-summary: 'Better AI in Scientific Applications: Interdisciplinary Approaches for Advancing Representational Learning'
-abstract: 'View A: Designing novel model architectures that can effectively capture and represent the complexities inherent in scientific data.  Project 1: Novel algebraic learning framework for knowledge graph with incorporation of human-defined logic rules. Project 2: Novel motif-based learning framework for molecule property prediction. View B: Multimodal approaches to integrate complementary knowledge from different modalities. Project 3: Multimodal contrastive learning using heterogeneous molecule representations. Project 4: A multimodal fusion approach for integrating molecular learning with language models via soft prompting. View C: Controllable molecule generation. Project 5: Controllable Molecule Generation by Diffusion Language Model' 
+summary: '' 
     
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-29T16:30:00Z'
-date_end: '2023-05-29T17:00:00Z'
+date: '2025-06-15T16:30:00Z'
+#date_end: '2023-05-29T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -27,8 +26,8 @@ authors:
   - admin
 
 tags: 
-  - Graph Neural Network
-  - Molecule Learning
+  - WGS
+
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -44,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 
 url_pdf: ''
-url_slides: 'https://docs.google.com/presentation/d/1ei-DRBpSqupm2Ngy3YUkibcTMhN8eE8l/edit?usp=sharing&ouid=117945450209146684865&rtpof=true&sd=true'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
