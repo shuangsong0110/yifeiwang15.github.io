@@ -10,15 +10,15 @@ authors:
 - M Pisa
 author_notes: ""
 
-date: "2025-12-23"
+date: "2025-12-22"
 doi: ""
 
-publishDate: "2025-12-23T00:00:00Z"
+publishDate: "2025-12-22T00:00:00Z"
 
 publication_types: ["article-journal"]
 
 publication: "European Journal of Neurology"
-publication_short: "Eur J Neurol"
+publication_short: "European Journal of Neurology"
 
 abstract: ""
 summary: ""

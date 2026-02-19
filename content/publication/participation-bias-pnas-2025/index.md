@@ -15,7 +15,7 @@ publishDate: "2025-12-31T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "Proceedings of the National Academy of Sciences"
-publication_short: "PNAS"
+publication_short: "Proceedings of the National Academy of Sciences"
 
 abstract: ""
 summary: ""

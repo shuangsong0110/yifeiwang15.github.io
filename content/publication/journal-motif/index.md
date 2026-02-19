@@ -15,7 +15,7 @@ publishDate: "2025-12-30T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "Nature Communications"
-publication_short: "Nat Commun"
+publication_short: "Nature Communications"
 
 abstract: ""
 summary: ""

@@ -11,15 +11,15 @@ authors:
 - Y Zhong
 author_notes: ""
 
-date: "2025-12-24"
+date: "2025-12-23"
 doi: ""
 
-publishDate: "2025-12-24T00:00:00Z"
+publishDate: "2025-12-23T00:00:00Z"
 
 publication_types: ["article-journal"]
 
 publication: "Graefe's Archive for Clinical and Experimental Ophthalmology"
-publication_short: "Graefes Arch Clin Exp Ophthalmol"
+publication_short: "Graefe's Archive for Clinical and Experimental Ophthalmology"
 
 abstract: ""
 summary: ""

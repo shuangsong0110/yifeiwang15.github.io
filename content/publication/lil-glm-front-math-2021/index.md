@@ -2,7 +2,7 @@
 title: "Law of the Iterated Logarithm and Model Selection Consistency for Independent and Dependent GLMs"
 authors:
 - X Yang
-- S Song
+- S Song (co-first)
 - H Zhang
 author_notes: ""
 
@@ -14,7 +14,7 @@ publishDate: "2025-12-20T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "Frontiers of Mathematics in China"
-publication_short: "Front Math China"
+publication_short: "Frontiers of Mathematics in China"
 
 abstract: ""
 summary: ""

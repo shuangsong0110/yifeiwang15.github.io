@@ -17,7 +17,7 @@ publishDate: "2025-12-19T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "Briefings in Bioinformatics"
-publication_short: "Brief Bioinform"
+publication_short: "Briefings in Bioinformatics"
 
 abstract: ""
 summary: ""

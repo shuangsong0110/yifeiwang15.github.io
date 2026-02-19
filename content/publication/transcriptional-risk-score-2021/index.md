@@ -17,7 +17,7 @@ publishDate: "2025-12-17T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "Genetic Epidemiology"
-publication_short: "Genet Epidemiol"
+publication_short: "Genetic Epidemiology"
 
 abstract: ""
 summary: ""

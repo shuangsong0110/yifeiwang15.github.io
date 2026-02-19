@@ -16,7 +16,7 @@ publishDate: "2025-12-28T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "The American Journal of Human Genetics"
-publication_short: "Am J Hum Genet"
+publication_short: "The American Journal of Human Genetics"
 
 abstract: ""
 summary: ""

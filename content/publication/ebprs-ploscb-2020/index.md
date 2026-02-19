@@ -15,7 +15,7 @@ publishDate: "2025-12-25T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "PLOS Computational Biology"
-publication_short: "PLoS Comput Biol"
+publication_short: "PLOS Computational Biology"
 
 abstract: ""
 summary: ""

@@ -19,7 +19,7 @@ publishDate: "2025-12-18T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "Nature Machine Intelligence"
-publication_short: "Nat Mach Intell"
+publication_short: "Nature Machine Intelligence"
 
 abstract: ""
 summary: ""

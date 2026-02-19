@@ -20,7 +20,7 @@ publishDate: "2025-12-14T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "Translational Vision Science & Technology"
-publication_short: "TVST"
+publication_short: "Translational Vision Science & Technology"
 
 abstract: ""
 summary: ""

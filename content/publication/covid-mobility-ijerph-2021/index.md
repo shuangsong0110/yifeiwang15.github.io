@@ -21,7 +21,7 @@ publishDate: "2025-12-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 publication: "International Journal of Environmental Research and Public Health"
-publication_short: "IJERPH"
+publication_short: "International Journal of Environmental Research and Public Health"
 
 abstract: ""
 summary: ""
