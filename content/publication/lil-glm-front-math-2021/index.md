@@ -30,7 +30,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=Law%20of%20the%20Iterated%20Logarithm%20and%20Model%20Selection%20Consistency%20for%20Independent%20and%20Dependent%20GLMs'
 url_video: ''
 
 image:

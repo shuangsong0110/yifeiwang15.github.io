@@ -35,7 +35,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=Cell%20type%20annotation%20of%20single-cell%20chromatin%20accessibility%20data%20via%20supervised%20Bayesian%20embedding'
 url_video: ''
 
 image:

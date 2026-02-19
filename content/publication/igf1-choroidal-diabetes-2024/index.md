@@ -36,7 +36,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=Blood%20Glucose%20Levels%20Moderate%20the%20Associations%20Between%20IGF-1%20Levels%20and%20Choroidal%20Metrics%20in%20Patients%20With%20Diabetes%20With%20Acromegaly%20Without%20Diabetic%20Retinopathy'
 url_video: ''
 
 image:

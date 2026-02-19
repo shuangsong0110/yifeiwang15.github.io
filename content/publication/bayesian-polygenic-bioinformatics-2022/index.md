@@ -30,7 +30,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=A%20data-adaptive%20Bayesian%20regression%20approach%20for%20polygenic%20risk%20prediction'
 url_video: ''
 
 image:

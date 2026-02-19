@@ -31,7 +31,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=Leveraging%20effect%20size%20distributions%20to%20improve%20polygenic%20risk%20scores%20derived%20from%20summary%20statistics%20of%20genome-wide%20association%20studies'
 url_video: ''
 
 image:

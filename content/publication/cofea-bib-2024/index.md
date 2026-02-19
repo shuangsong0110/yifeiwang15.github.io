@@ -33,7 +33,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=Cofea%3A%20correlation-based%20feature%20selection%20for%20single-cell%20chromatin%20accessibility%20data'
 url_video: ''
 
 image:

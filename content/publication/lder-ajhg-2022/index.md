@@ -32,7 +32,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=Leveraging%20LD%20eigenvalue%20regression%20to%20improve%20the%20estimation%20of%20SNP%20heritability%20and%20confounding%20inflation'
 url_video: ''
 
 image:

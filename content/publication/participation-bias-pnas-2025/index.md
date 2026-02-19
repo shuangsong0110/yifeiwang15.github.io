@@ -23,7 +23,7 @@ summary: ""
 weight: 1
 tags:
   - Publications
-featured: true
+featured: false
 
 url_pdf: ''
 url_code: 'https://github.com/shuangsong0110/ParticipationBias'
@@ -31,7 +31,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=Participation%20bias%20in%20the%20estimation%20of%20heritability%20and%20genetic%20correlation'
 url_video: ''
 
 image:

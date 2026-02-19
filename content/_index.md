@@ -63,6 +63,9 @@ sections:
         folders:
           - publication
         exclude_featured: false
+        tag: "Publications"
+      sort_by: weight
+      sort_ascending: true
     design:
       view: citation
   - block: collection

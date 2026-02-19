@@ -35,7 +35,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=A%20robust%20penalized-regression-based%20method%20for%20multivariable%20Mendelian%20randomization%20using%20GWAS%20summary%20statistics'
 url_video: ''
 
 image:

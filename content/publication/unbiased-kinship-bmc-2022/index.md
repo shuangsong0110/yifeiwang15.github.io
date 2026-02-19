@@ -32,7 +32,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=An%20unbiased%20kinship%20estimation%20method%20for%20genetic%20data%20analysis'
 url_video: ''
 
 image:

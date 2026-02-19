@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Advancing Drug Discovery with Enhanced Chemical Understanding via Asymmetric Contrastive Multimodal Learning'
 
 # Authors

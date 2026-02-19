@@ -31,7 +31,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=A%20set%20of%20efficient%20methods%20to%20generate%20high-dimensional%20binary%20data%20with%20specified%20correlation%20structures'
 url_video: ''
 
 image:

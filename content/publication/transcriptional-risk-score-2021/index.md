@@ -33,7 +33,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=A%20novel%20transcriptional%20risk%20score%20for%20risk%20prediction%20of%20complex%20human%20diseases'
 url_video: ''
 
 image:

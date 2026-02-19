@@ -37,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=Reduction%20of%20Human%20Mobility%20Matters%20during%20Early%20COVID-19%20Outbreaks%3A%20Evidence%20from%20India%2C%20Japan%20and%20China'
 url_video: ''
 
 image:

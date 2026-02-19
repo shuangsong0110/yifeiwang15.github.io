@@ -33,7 +33,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=Openness%20weighted%20association%20studies%3A%20leveraging%20personal%20genome%20information%20to%20prioritize%20non-coding%20variants'
 url_video: ''
 
 image:

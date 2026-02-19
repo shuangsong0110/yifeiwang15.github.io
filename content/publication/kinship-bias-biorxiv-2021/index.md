@@ -32,7 +32,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://scholar.google.com/scholar?q=Correcting%20statistical%20bias%20in%20correlation-based%20kinship%20estimators'
 url_video: ''
 
 image:
