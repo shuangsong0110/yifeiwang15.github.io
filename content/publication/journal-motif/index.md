@@ -28,9 +28,7 @@ abstract: "We introduce a framework that partitions and aggregates cross-tissue 
 summary: "A framework to partition and aggregate cross-tissue and tissue-specific genetic effects for improved gene-trait association discovery."
 
 tags:
-  - Statistical Genetics
-  - Cross-tissue Analysis
-  - Gene-trait Association
+  - Multiomics
 featured: true
 # links:
 # - name: ""
