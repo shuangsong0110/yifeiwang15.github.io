@@ -32,7 +32,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.nature.com/articles/s41467-024-49924-4/figures/1'
+url_source: 'https://scholar.google.com/scholar?q=Partitioning%20and%20aggregating%20cross-tissue%20and%20tissue-specific%20genetic%20effects%20to%20identify%20gene-trait%20associations'
 url_video: ''
 
 image:
