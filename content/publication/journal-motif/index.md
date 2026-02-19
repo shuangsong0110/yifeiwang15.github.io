@@ -1,19 +1,17 @@
 ---
-title: "Motif-based graph representation learning with application to chemical molecules"
+title: "Partitioning and aggregating cross-tissue and tissue-specific genetic effects to identify gene-trait associations"
 authors:
 - admin
-- Shiyang Chen
-- Guobin Chen
-- Ethan Shurberg
-- Hang Liu
-- Pengyu Hong
+- Lijun Wang
+- Lin Hou
+- Jun S. Liu
 author_notes: ""
 
-date: "2023-01-11"
-doi: "10.3390/informatics10010008"
+date: "2024-07-09"
+doi: "10.1038/s41467-024-49924-4"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-11T00:00:00Z"
+publishDate: "2024-07-09T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,24 +19,24 @@ publishDate: "2024-01-11T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Informatics"
-publication_short: "Informatics"
+publication: "Nature Communications"
+publication_short: "Nat Commun"
 
-abstract: "This work considers the task of representation learning on the attributed relational graph (ARG). Both the nodes and edges in an ARG are associated with attributes/features allowing ARGs to encode rich structural information widely observed in real applications. Existing graph neural networks offer limited ability to capture complex interactions within local structural contexts, which hinders them from taking advantage of the expression power of ARGs. We propose motif convolution module (MCM), a new motif-based graph representation learning technique to better utilize local structural information. The ability to handle continuous edge and node features is one of MCM’s advantages over existing motif-based models. MCM builds a motif vocabulary in an unsupervised way and deploys a novel motif convolution operation to extract the local structural context of individual nodes, which is then used to learn higher level node representations via multilayer perceptron and/or message passing in graph neural networks. When compared with other graph learning approaches to classifying synthetic graphs, our approach is substantially better at capturing structural context. We also demonstrate the performance and explainability advantages of our approach by applying it to several molecular benchmarks."
+abstract: "We introduce a framework that partitions and aggregates cross-tissue and tissue-specific genetic effects to identify gene-trait associations. The approach improves statistical power and interpretability by jointly modeling shared and tissue-dependent components of genetic regulation."
 
 # Summary. An optional shortened abstract.
-summary: "We designed a novel convolution module for graph representational learning on molecules with an efficient pretraining strategy, enabling the capture of local structural and semantic information from graph motifs."
+summary: "A framework to partition and aggregate cross-tissue and tissue-specific genetic effects for improved gene-trait association discovery."
 
 tags:
-  - AI For Drug Discovery
-  - Graph Neural Network
-  - Molecular Representation Learning
+  - Statistical Genetics
+  - Cross-tissue Analysis
+  - Gene-trait Association
 featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.mdpi.com/2227-9709/10/1/8'
-url_code: 'https://github.com/yifeiwang15/MotifConv'
+url_pdf: 'https://www.nature.com/articles/s41467-024-49924-4.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
