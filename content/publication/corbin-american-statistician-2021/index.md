@@ -2,15 +2,15 @@
 title: "A set of efficient methods to generate high-dimensional binary data with specified correlation structures"
 authors:
 - W Jiang
-- S Song (co-first)
+- s-song-co-first
 - L Hou
 - H Zhao
 author_notes: ""
 
-date: "2025-12-24"
+date: "2021-12-30"
 doi: ""
 
-publishDate: "2025-12-24T00:00:00Z"
+publishDate: "2021-12-30T00:00:00Z"
 
 publication_types: ["article-journal"]
 
@@ -20,7 +20,7 @@ publication_short: "The American Statistician"
 abstract: ""
 summary: ""
 
-weight: 11
+weight: 8
 tags:
   - Publications
 featured: false

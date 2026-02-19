@@ -14,7 +14,10 @@
 
   {{ partial "functions/render_view" (dict "fragment" "start" "page" $block "item" . "view" $view) }}
 
-  {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+  {{ $pages := where .Pages "Params.tags" "intersect" (slice "Publications") }}
+  {{ $pages = sort $pages "Params.weight" "asc" }}
+
+  {{ $paginator := .Paginate $pages }}
   {{ range $index, $item := $paginator.Pages }}
     {{ partial "functions/render_view" (dict "page" . "item" . "view" $view "index" $index) }}
   {{ end }}
