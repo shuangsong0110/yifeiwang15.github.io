@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "COVID-19 Trend Forecasting Using State-level Mobility and Policy"
 authors:
 - admin
