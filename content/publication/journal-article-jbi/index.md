@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Assessing fairness in machine learning models: A study of racial bias using matched counterparts in mortality prediction for patients with chronic diseases"
 authors:
 - admin
