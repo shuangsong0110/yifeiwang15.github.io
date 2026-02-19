@@ -41,13 +41,13 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.nature.com/articles/s41467-024-49924-4/figures/1'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Figure 1 from Nature Communications (2024), DOI: 10.1038/s41467-024-49924-4'
   focal_point: ""
   preview_only: false
 
