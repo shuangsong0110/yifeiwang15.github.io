@@ -1,0 +1,63 @@
+{{ $item := .item }}
+{{ $title_link := $item.RelPermalink }}
+{{ with $item.Params.url_source }}{{ $title_link = . }}{{ end }}
+{{ $cite := $item.Resources.GetMatch "cite.bib" }}
+{{ $code := $item.Params.url_code }}
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" $item }}
+  </span>
+  ({{- $item.Date.Format "2006" -}}).
+  <a href="{{ $title_link }}" class="underline" {{ if ne $title_link $item.RelPermalink }}target="_blank" rel="noopener"{{ end }}>{{ $item.Title }}</a>.
+  {{ if $item.Params.publication_short }}<em>{{- $item.Params.publication_short | markdownify -}}</em>.
+  {{ else if $item.Params.publication }}<em>{{- $item.Params.publication | markdownify -}}</em>.
+  {{ end }}
+
+  {{ if or $cite $code }}
+  <div class="flex space-x-3">
+    {{ with $cite }}
+    <a class="hb-attachment-link hb-attachment-small" href="{{ .RelPermalink }}" target="_blank" data-filename="{{ .RelPermalink }}">
+      {{ partial "functions/get_icon" (dict "name" "document-duplicate" "attributes" "style=\"height: 1em\" class='inline-block'") }}
+      {{ i18n "btn_cite" }}
+    </a>
+    {{ end }}
+    {{ with $code }}
+    <a class="hb-attachment-link hb-attachment-small" href="{{ . | relURL }}" target="_blank" rel="noopener">
+      {{ partial "functions/get_icon" (dict "name" "code-bracket" "attributes" "style=\"height: 1em\" class='inline-block'") }}
+      {{ i18n "btn_code" }}
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ else }}
+
+  <span class="article-metadata li-cite-author">{{ partial "page_metadata_authors" $item }}.</span>
+  <a href="{{ $title_link }}" {{ if ne $title_link $item.RelPermalink }}target="_blank" rel="noopener"{{ end }}>{{ $item.Title }}</a>.
+  {{ if $item.Params.publication_short }}<em>{{- $item.Params.publication_short | markdownify -}}</em>,
+  {{ else if $item.Params.publication }}<em>{{- $item.Params.publication | markdownify -}}</em>,{{ end }}
+  {{- $item.Date.Format "2006" -}}.
+
+  {{ if or $cite $code }}
+  <div class="flex space-x-3">
+    {{ with $cite }}
+    <a class="hb-attachment-link hb-attachment-small" href="{{ .RelPermalink }}" target="_blank" data-filename="{{ .RelPermalink }}">
+      {{ partial "functions/get_icon" (dict "name" "document-duplicate" "attributes" "style=\"height: 1em\" class='inline-block'") }}
+      {{ i18n "btn_cite" }}
+    </a>
+    {{ end }}
+    {{ with $code }}
+    <a class="hb-attachment-link hb-attachment-small" href="{{ . | relURL }}" target="_blank" rel="noopener">
+      {{ partial "functions/get_icon" (dict "name" "code-bracket" "attributes" "style=\"height: 1em\" class='inline-block'") }}
+      {{ i18n "btn_code" }}
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ end }}
+</div>

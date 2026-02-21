@@ -59,12 +59,34 @@ sections:
     content:
       title: Recent Publications
       text: ""
+      count: 0
       filters:
         folders:
           - publication
         exclude_featured: false
+        tag: "Publications"
+      sort_by: weight
+      sort_ascending: true
     design:
       view: citation
+  - block: markdown
+    id: awards
+    content:
+      title: Awards
+      subtitle: ''
+      text: |-
+        <div class="space-y-3">
+          <div class="rounded-lg border border-gray-200 dark:border-gray-700 p-4">
+            <p class="font-semibold">🏆 Add your latest honors here</p>
+            <p class="text-sm text-gray-600 dark:text-gray-300">Examples: Best Paper Award, Travel Award, Fellowship, Scholarship.</p>
+          </div>
+          <div class="rounded-lg border border-gray-200 dark:border-gray-700 p-4">
+            <p class="font-semibold">🎯 Suggested format</p>
+            <p class="text-sm text-gray-600 dark:text-gray-300"><strong>2025</strong> — Award Name, Organization / Conference</p>
+          </div>
+        </div>
+    design:
+      columns: '1'
   - block: collection
     id: talks
     content:
