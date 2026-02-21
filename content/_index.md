@@ -75,16 +75,16 @@ sections:
       title: Awards
       subtitle: ''
       text: |-
-        <div class="space-y-3">
-          <div class="rounded-lg border border-gray-200 dark:border-gray-700 p-4">
-            <p class="font-semibold">🏆 Add your latest honors here</p>
-            <p class="text-sm text-gray-600 dark:text-gray-300">Examples: Best Paper Award, Travel Award, Fellowship, Scholarship.</p>
-          </div>
-          <div class="rounded-lg border border-gray-200 dark:border-gray-700 p-4">
-            <p class="font-semibold">🎯 Suggested format</p>
-            <p class="text-sm text-gray-600 dark:text-gray-300"><strong>2025</strong> — Award Name, Organization / Conference</p>
-          </div>
-        </div>
+        1. Example 1 — Award Name, Organization
+        2. Example 2 — Award Name, Organization
+        3. Example 3 — Award Name, Organization
+        4. Example 4 — Award Name, Organization
+        5. Example 5 — Award Name, Organization
+        6. Example 6 — Award Name, Organization
+        7. Example 7 — Award Name, Organization
+        8. Example 8 — Award Name, Organization
+        9. Example 9 — Award Name, Organization
+        10. Example 10 — Award Name, Organization
     design:
       columns: '1'
   - block: collection
