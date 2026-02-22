@@ -3,13 +3,32 @@ document.addEventListener('DOMContentLoaded', function() {
   // 找到所有教育背景的文本段落
   document.querySelectorAll('.description p.text-sm').forEach(function(p) {
     let html = p.innerHTML;
-    
+
     // 匹配 "内容 (年份 - 年份)" 或 "内容 (年份 - Present)" 格式
     // 把括号前的内容用 <strong> 包裹
     let match = html.match(/^(.+?)(\s*\([^)]+\).*)$/);
-    
+
     if (match) {
       p.innerHTML = '<strong>' + match[1] + '</strong>' + match[2];
+    }
+  });
+
+  // Fallback: force visible spacing between education items when theme CSS utilities override margins
+  const rowSelectors = [
+    '.wg-resume-biography-3 .education li',
+    '.resume-biography .education li',
+    '.wg-resume-biography-3 .ul-edu li',
+    '.resume-biography .ul-edu li',
+    '.wg-resume-biography-3 .education .flex-row',
+    '.resume-biography .education .flex-row'
+  ];
+
+  rowSelectors.forEach(function(sel) {
+    const rows = document.querySelectorAll(sel);
+    if (rows.length > 1) {
+      rows.forEach(function(el, idx) {
+        if (idx > 0) el.style.marginTop = '1.25rem';
+      });
     }
   });
 });

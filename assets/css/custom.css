@@ -41,3 +41,13 @@
 .education li:last-child .description {
   margin-bottom: 0 !important;
 }
+
+/* Force visible spacing between education rows across theme DOM variants */
+.wg-resume-biography-3 .education li + li,
+.resume-biography .education li + li,
+.wg-resume-biography-3 .ul-edu li + li,
+.resume-biography .ul-edu li + li,
+.wg-resume-biography-3 .education .flex-row + .flex-row,
+.resume-biography .education .flex-row + .flex-row {
+  margin-top: 1.25rem !important;
+}
