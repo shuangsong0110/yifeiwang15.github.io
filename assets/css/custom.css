@@ -12,3 +12,23 @@
 .description p.text-sm::after {
   font-weight: normal;
 }*/
+
+
+/* Resume biography: show institution (school + year) above role, and emphasize institution text */
+.wg-resume-biography-3 .education .description {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.wg-resume-biography-3 .education .description .institution {
+  font-size: 1.55rem;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-bottom: 0.2rem;
+}
+
+.wg-resume-biography-3 .education .description .course {
+  font-size: 1.15rem;
+  font-weight: 400;
+  color: #1f2937;
+}
