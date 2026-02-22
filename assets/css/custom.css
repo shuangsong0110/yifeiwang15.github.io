@@ -29,7 +29,7 @@
 
 /* Increase spacing between education entries */
 .resume-biography .education ul > li {
-  margin-bottom: 2rem !important;
+  margin-bottom: 20rem !important;
 }
 
 .resume-biography .education ul > li:last-child {
