@@ -14,21 +14,27 @@
 }*/
 
 
-/* Resume biography: show institution (school + year) above role, and emphasize institution text */
+/* Resume biography: show school+year above role/degree and emphasize school line */
 .wg-resume-biography-3 .education .description {
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: column;
 }
 
-.wg-resume-biography-3 .education .description .institution {
+/* In this theme, school+year is rendered as p.text-sm */
+.wg-resume-biography-3 .education .description p.text-sm {
+  order: 1;
   font-size: 1.55rem;
   font-weight: 700;
   line-height: 1.25;
   margin-bottom: 0.2rem;
+  color: #111827;
 }
 
-.wg-resume-biography-3 .education .description .course {
+/* Role/degree line shown below */
+.wg-resume-biography-3 .education .description p:first-child {
+  order: 2;
   font-size: 1.15rem;
   font-weight: 400;
   color: #1f2937;
+  margin-top: 0;
 }
