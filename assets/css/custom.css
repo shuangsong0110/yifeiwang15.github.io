@@ -7,8 +7,8 @@
 /* School + year line (institution) on top */
 .resume-biography .description .text-sm {
   order: 1;
-  font-size: 1.5rem;
-  font-weight: 700;
+  font-size: 1.2rem;
+  font-weight: 200;
   line-height: 1.25;
   margin: 0 0 0.15rem 0;
   color: #111827;
