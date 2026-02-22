@@ -102,49 +102,50 @@ sections:
       title: Software
       subtitle: ''
       text: |-
-        <div style="margin-bottom: 12px; color: #4b5563;">
-          Selected software grouped by research direction.
-        </div>
-
-        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px;">
-          <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;background:#fafafa;">
-            <h4 style="margin:0 0 8px 0;color:#1d4ed8;">WGS / WES</h4>
-            <ul style="margin:0;padding-left:18px;line-height:1.8;">
-              <li><a href="https://github.com/shuangsong0110/GATE-STAAR" target="_blank" rel="noopener">GATE-STAAR</a></li>
-              <li><a href="https://github.com/shuangsong0110/GATE-STAAR-RAP" target="_blank" rel="noopener">GATE-STAAR-RAP</a></li>
-            </ul>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px;">
+          <div style="border:1px solid #d9d9df;border-radius:10px;padding:14px 18px;background:#fbfbfd;">
+            <h4 style="margin:0 0 8px 0;font-size:1.05rem;color:#3b67df;">🖥️ WGS / WES</h4>
+            <p style="margin:0 0 8px 0;color:#334155;">Rare-variant association tools for sequencing studies.</p>
+            <div style="line-height:1.8;">
+              <a href="https://github.com/shuangsong0110/GATE-STAAR" target="_blank" rel="noopener">GATE-STAAR</a> ·
+              <a href="https://github.com/shuangsong0110/GATE-STAAR-RAP" target="_blank" rel="noopener">GATE-STAAR-RAP</a>
+            </div>
           </div>
 
-          <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;background:#fafafa;">
-            <h4 style="margin:0 0 8px 0;color:#1d4ed8;">Heritability / Genetic Correlation</h4>
-            <ul style="margin:0;padding-left:18px;line-height:1.8;">
-              <li><a href="https://github.com/shuangsong0110/LDER" target="_blank" rel="noopener">LDER</a></li>
-              <li><a href="https://github.com/shuangsong0110/ParticipationBias" target="_blank" rel="noopener">ParticipationBias</a></li>
-            </ul>
+          <div style="border:1px solid #d9d9df;border-radius:10px;padding:14px 18px;background:#fbfbfd;">
+            <h4 style="margin:0 0 8px 0;font-size:1.05rem;color:#3b67df;">🖥️ Heritability / Genetic Correlation</h4>
+            <p style="margin:0 0 8px 0;color:#334155;">Methods for SNP heritability and participation-bias correction.</p>
+            <div style="line-height:1.8;">
+              <a href="https://github.com/shuangsong0110/LDER" target="_blank" rel="noopener">LDER</a> ·
+              <a href="https://github.com/shuangsong0110/ParticipationBias" target="_blank" rel="noopener">ParticipationBias</a>
+            </div>
           </div>
 
-          <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;background:#fafafa;">
-            <h4 style="margin:0 0 8px 0;color:#1d4ed8;">Polygenic Risk Prediction</h4>
-            <ul style="margin:0;padding-left:18px;line-height:1.8;">
-              <li><a href="https://github.com/shuangsong0110/NeuPred" target="_blank" rel="noopener">NeuPred</a></li>
-              <li><a href="https://github.com/shuangsong0110/EBPRS" target="_blank" rel="noopener">EBPRS</a></li>
-            </ul>
+          <div style="border:1px solid #d9d9df;border-radius:10px;padding:14px 18px;background:#fbfbfd;">
+            <h4 style="margin:0 0 8px 0;font-size:1.05rem;color:#3b67df;">🖥️ Polygenic Risk Prediction</h4>
+            <p style="margin:0 0 8px 0;color:#334155;">Polygenic risk score modeling and Bayesian prediction tools.</p>
+            <div style="line-height:1.8;">
+              <a href="https://github.com/shuangsong0110/NeuPred" target="_blank" rel="noopener">NeuPred</a> ·
+              <a href="https://github.com/shuangsong0110/EBPRS" target="_blank" rel="noopener">EBPRS</a>
+            </div>
           </div>
 
-          <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;background:#fafafa;">
-            <h4 style="margin:0 0 8px 0;color:#1d4ed8;">Multiomics</h4>
-            <ul style="margin:0;padding-left:18px;line-height:1.8;">
-              <li><a href="https://github.com/shuangsong0110/MTWAS" target="_blank" rel="noopener">MTWAS</a></li>
-              <li><a href="https://github.com/shuangsong0110/OWAS" target="_blank" rel="noopener">OWAS</a></li>
-              <li><a href="https://github.com/shuangsong0110/OWASjoint" target="_blank" rel="noopener">OWASjoint</a></li>
-            </ul>
+          <div style="border:1px solid #d9d9df;border-radius:10px;padding:14px 18px;background:#fbfbfd;">
+            <h4 style="margin:0 0 8px 0;font-size:1.05rem;color:#3b67df;">🖥️ Multiomics</h4>
+            <p style="margin:0 0 8px 0;color:#334155;">Integrative analysis across transcriptome and omics modalities.</p>
+            <div style="line-height:1.8;">
+              <a href="https://github.com/shuangsong0110/MTWAS" target="_blank" rel="noopener">MTWAS</a> ·
+              <a href="https://github.com/shuangsong0110/OWAS" target="_blank" rel="noopener">OWAS</a> ·
+              <a href="https://github.com/shuangsong0110/OWASjoint" target="_blank" rel="noopener">OWASjoint</a>
+            </div>
           </div>
 
-          <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;background:#fafafa;">
-            <h4 style="margin:0 0 8px 0;color:#1d4ed8;">Mendelian Randomization</h4>
-            <ul style="margin:0;padding-left:18px;line-height:1.8;">
-              <li><a href="https://github.com/shuangsong0110/MVMR-PRESS" target="_blank" rel="noopener">MVMR-PRESS</a></li>
-            </ul>
+          <div style="border:1px solid #d9d9df;border-radius:10px;padding:14px 18px;background:#fbfbfd;">
+            <h4 style="margin:0 0 8px 0;font-size:1.05rem;color:#3b67df;">🖥️ Mendelian Randomization</h4>
+            <p style="margin:0 0 8px 0;color:#334155;">Robust multivariable Mendelian randomization inference.</p>
+            <div style="line-height:1.8;">
+              <a href="https://github.com/shuangsong0110/MVMR-PRESS" target="_blank" rel="noopener">MVMR-PRESS</a>
+            </div>
           </div>
         </div>
     design:
