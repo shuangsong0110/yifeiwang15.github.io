@@ -7,7 +7,7 @@
 /* School + year line (institution) on top */
 .resume-biography .description .text-sm {
   order: 1;
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   font-weight: 600;
   line-height: 1.25;
   margin: 0 0 0.15rem 0;
@@ -17,7 +17,7 @@
 /* Role / degree line below */
 .resume-biography .description .course {
   order: 2;
-  font-size: 1.05rem;
+  font-size: 1.0rem;
   font-weight: 400;
   line-height: 1.35;
   margin: 0;

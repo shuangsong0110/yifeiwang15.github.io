@@ -55,16 +55,12 @@ education:
     #end: '2024'
     #date_display: '2024 - Present'
     #summary: '2022 - Present'  
-  - area: Ph.D. in Statistics (2019-2024)
+  - area: Ph.D. in Statistics (2019-2024); B.S. in Mathematics (2015-2019)
     institution: Tsinghua University
-    date_start: 2019-01-01
+    date_start: 2015-01-01
     date_end: 2024-01-01
     summary: |
       - GPA: 3.98/4.0, Rank: 1/49
-  - area: B.S. in Mathematics (2015-2019)
-    institution: Tsinghua University
-    date_start: 2015-01-01
-    date_end: 2019-01-01
   - area: Researcher (2022-2023)
     institution: University of Oxford
   - area: Researcher (2018)
