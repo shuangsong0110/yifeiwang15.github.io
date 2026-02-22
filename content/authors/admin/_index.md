@@ -71,6 +71,10 @@ education:
     institution: Yale University (2018)
     date_start: 2022-01-01
     date_end: 2023-01-01
+  - area: Algorithm Intern
+    institution: Kuang-chi Institute of Advanced Science and Technology (2021)
+    date_start: 2021-01-01
+    date_end: 2021-12-31
 
 
 

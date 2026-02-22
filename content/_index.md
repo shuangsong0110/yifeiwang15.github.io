@@ -21,7 +21,7 @@ sections:
       headings:
         about: ''
         #education: 'Work Experience'
-        education: 'Experience & Education'
+        education: 'Experience'
         interests: ''
     design:
       css_class: light
@@ -96,6 +96,33 @@ sections:
     design:
       view: article-grid
       columns: 3
+  - block: markdown
+    id: software
+    content:
+      title: Software
+      subtitle: ''
+      text: |-
+        <!-- Placeholder layout: I will replace these with your real categories and GitHub links. -->
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;">
+          <div style="border:1px solid #d6d6d6;border-radius:10px;padding:16px;">
+            <h4 style="margin-top:0;">Category A (Placeholder)</h4>
+            <p style="margin-bottom:8px;">A short description for this software category.</p>
+            <ul>
+              <li><a href="https://github.com/your-org/placeholder-repo-1">placeholder-repo-1</a></li>
+              <li><a href="https://github.com/your-org/placeholder-repo-2">placeholder-repo-2</a></li>
+            </ul>
+          </div>
+          <div style="border:1px solid #d6d6d6;border-radius:10px;padding:16px;">
+            <h4 style="margin-top:0;">Category B (Placeholder)</h4>
+            <p style="margin-bottom:8px;">Another category block with repository placeholders.</p>
+            <ul>
+              <li><a href="https://github.com/your-org/placeholder-repo-3">placeholder-repo-3</a></li>
+              <li><a href="https://github.com/your-org/placeholder-repo-4">placeholder-repo-4</a></li>
+            </ul>
+          </div>
+        </div>
+    design:
+      columns: '1'
   - block: markdown
     id: service
     content:
