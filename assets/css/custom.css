@@ -28,10 +28,10 @@
 
 
 /* Increase spacing between education entries */
-.resume-biography .education li {
-  margin-bottom: 0.9rem;
+.resume-biography .education ul > li {
+  margin-bottom: 1.35rem !important;
 }
 
-.resume-biography .education li:last-child {
-  margin-bottom: 0;
+.resume-biography .education ul > li:last-child {
+  margin-bottom: 0 !important;
 }
