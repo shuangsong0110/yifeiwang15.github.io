@@ -48,7 +48,9 @@ interests:
   - AI4Science
 
 education:
-  - area: Postdoctoral Researcher (2024 - Present)
+  - area: |-
+      Postdoctoral Researcher (2024 - Present)
+      <span style="font-size:0.72rem; line-height:0.72rem;">&nbsp;</span>
     institution: Harvard University
     date_start: 2024-01-01
     date_end: 2024-01-02
@@ -58,18 +60,25 @@ education:
   - area: |-
       Ph.D. in Statistics (2019-2024)
       B.S. in Mathematics (2015-2019)
+      <span style="font-size:0.72rem; line-height:0.72rem;">&nbsp;</span>
     institution: Tsinghua University
     date_start: 2015-01-01
     date_end: 2024-01-01
     summary: |
       - GPA: 3.98/4.0, Rank: 1/49
-  - area: Researcher (2022-2023)
+  - area: |-
+      Researcher (2022-2023)
+      <span style="font-size:0.72rem; line-height:0.72rem;">&nbsp;</span>
     institution: University of Oxford
-  - area: Researcher (2018)
+  - area: |-
+      Researcher (2018)
+      <span style="font-size:0.72rem; line-height:0.72rem;">&nbsp;</span>
     institution: Yale University
     date_start: 2022-01-01
     date_end: 2023-01-01
-  - area: Algorithm Intern (2021)
+  - area: |-
+      Algorithm Intern (2021)
+      <span style="font-size:0.72rem; line-height:0.72rem;">&nbsp;</span>
     institution: |-
       Kuang-chi Institute of Advanced
       Science and Technology
