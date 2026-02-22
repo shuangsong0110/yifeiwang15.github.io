@@ -97,19 +97,19 @@ sections:
       view: article-grid
       columns: 3
   - block: markdown
-    id: teaching
+    id: service
     content:
-      title: Service & Teaching
+      title: Service
       subtitle: ''
       text: |-
-        **Service:**
-        - Reviewer for *Nature Communications*
-        - Reviewer for *The American Journal of Human Genetics*
-        - Reviewer for *npj Digital Medicine*
-        - Reviewer for *IEEE/ACM Transactions on Computational Biology and Bioinformatics*
-        - Reviewer for *BMC Bioinformatics*
-        - Reviewer for *BMC Medicine*
-        - Reviewer for *Scientific Reports*
+        **Reviewer:**
+        - *Nature Communications*
+        - *The American Journal of Human Genetics*
+        - *npj Digital Medicine*
+        - *IEEE/ACM Transactions on Computational Biology and Bioinformatics*
+        - *BMC Bioinformatics*
+        - *BMC Medicine*
+        - *Scientific Reports*
 
         **Teaching:**
         - Teaching Assistant for Probability Theory (2021)

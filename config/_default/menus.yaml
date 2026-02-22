@@ -22,8 +22,8 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Service & Teaching
-    url: /#teaching
+  - name: Service
+    url: /#service
     weight: 21
   # - name: Projects
   #   url: projects/
