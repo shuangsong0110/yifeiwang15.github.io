@@ -1,11 +1,11 @@
-/* Education block: show school+year above role/degree and emphasize school line */
+/* Education block typography */
 .resume-biography .description,
 .wg-resume-biography-3 .description {
   display: flex;
   flex-direction: column;
 }
 
-/* School + year line (institution) on top */
+/* School line */
 .resume-biography .description .text-sm,
 .wg-resume-biography-3 .description .text-sm {
   order: 1;
@@ -17,7 +17,7 @@
   white-space: pre-line;
 }
 
-/* Role / degree line below */
+/* Role/degree line */
 .resume-biography .description .course,
 .wg-resume-biography-3 .description .course {
   order: 2;
@@ -29,17 +29,15 @@
   white-space: pre;
 }
 
-/* Increase spacing between education entries (multiple selectors for theme variants) */
-.resume-biography .education ul > li,
-.wg-resume-biography-3 .education ul > li,
-.wg-resume-biography-3 .education li,
-.education ul > li {
-  margin-bottom: 20rem !important;
+/* Reliable spacing between entries: apply on description itself */
+.resume-biography .education .description,
+.wg-resume-biography-3 .education .description,
+.education .description {
+  margin-bottom: 1.6rem !important;
 }
 
-.resume-biography .education ul > li:last-child,
-.wg-resume-biography-3 .education ul > li:last-child,
-.wg-resume-biography-3 .education li:last-child,
-.education ul > li:last-child {
+.resume-biography .education li:last-child .description,
+.wg-resume-biography-3 .education li:last-child .description,
+.education li:last-child .description {
   margin-bottom: 0 !important;
 }
