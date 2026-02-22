@@ -102,22 +102,48 @@ sections:
       title: Software
       subtitle: ''
       text: |-
-        <!-- Placeholder layout: I will replace these with your real categories and GitHub links. -->
-        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;">
-          <div style="border:1px solid #d6d6d6;border-radius:10px;padding:16px;">
-            <h4 style="margin-top:0;">Category A (Placeholder)</h4>
-            <p style="margin-bottom:8px;">A short description for this software category.</p>
-            <ul>
-              <li><a href="https://github.com/your-org/placeholder-repo-1">placeholder-repo-1</a></li>
-              <li><a href="https://github.com/your-org/placeholder-repo-2">placeholder-repo-2</a></li>
+        <div style="margin-bottom: 12px; color: #4b5563;">
+          Selected software grouped by research direction.
+        </div>
+
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px;">
+          <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;background:#fafafa;">
+            <h4 style="margin:0 0 8px 0;color:#1d4ed8;">WGS / WES</h4>
+            <ul style="margin:0;padding-left:18px;line-height:1.8;">
+              <li><a href="https://github.com/shuangsong0110/GATE-STAAR" target="_blank" rel="noopener">GATE-STAAR</a></li>
+              <li><a href="https://github.com/shuangsong0110/GATE-STAAR-RAP" target="_blank" rel="noopener">GATE-STAAR-RAP</a></li>
             </ul>
           </div>
-          <div style="border:1px solid #d6d6d6;border-radius:10px;padding:16px;">
-            <h4 style="margin-top:0;">Category B (Placeholder)</h4>
-            <p style="margin-bottom:8px;">Another category block with repository placeholders.</p>
-            <ul>
-              <li><a href="https://github.com/your-org/placeholder-repo-3">placeholder-repo-3</a></li>
-              <li><a href="https://github.com/your-org/placeholder-repo-4">placeholder-repo-4</a></li>
+
+          <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;background:#fafafa;">
+            <h4 style="margin:0 0 8px 0;color:#1d4ed8;">Heritability / Genetic Correlation</h4>
+            <ul style="margin:0;padding-left:18px;line-height:1.8;">
+              <li><a href="https://github.com/shuangsong0110/LDER" target="_blank" rel="noopener">LDER</a></li>
+              <li><a href="https://github.com/shuangsong0110/ParticipationBias" target="_blank" rel="noopener">ParticipationBias</a></li>
+            </ul>
+          </div>
+
+          <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;background:#fafafa;">
+            <h4 style="margin:0 0 8px 0;color:#1d4ed8;">Polygenic Risk Prediction</h4>
+            <ul style="margin:0;padding-left:18px;line-height:1.8;">
+              <li><a href="https://github.com/shuangsong0110/NeuPred" target="_blank" rel="noopener">NeuPred</a></li>
+              <li><a href="https://github.com/shuangsong0110/EBPRS" target="_blank" rel="noopener">EBPRS</a></li>
+            </ul>
+          </div>
+
+          <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;background:#fafafa;">
+            <h4 style="margin:0 0 8px 0;color:#1d4ed8;">Multiomics</h4>
+            <ul style="margin:0;padding-left:18px;line-height:1.8;">
+              <li><a href="https://github.com/shuangsong0110/MTWAS" target="_blank" rel="noopener">MTWAS</a></li>
+              <li><a href="https://github.com/shuangsong0110/OWAS" target="_blank" rel="noopener">OWAS</a></li>
+              <li><a href="https://github.com/shuangsong0110/OWASjoint" target="_blank" rel="noopener">OWASjoint</a></li>
+            </ul>
+          </div>
+
+          <div style="border:1px solid #e5e7eb;border-radius:12px;padding:16px;background:#fafafa;">
+            <h4 style="margin:0 0 8px 0;color:#1d4ed8;">Mendelian Randomization</h4>
+            <ul style="margin:0;padding-left:18px;line-height:1.8;">
+              <li><a href="https://github.com/shuangsong0110/MVMR-PRESS" target="_blank" rel="noopener">MVMR-PRESS</a></li>
             </ul>
           </div>
         </div>
