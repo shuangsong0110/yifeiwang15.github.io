@@ -75,16 +75,15 @@ sections:
       title: Awards
       subtitle: ''
       text: |-
-        - **Example 1** — Award Name, Organization
-        - **Example 2** — Award Name, Organization
-        - **Example 3** — Award Name, Organization
-        - **Example 4** — Award Name, Organization
-        - **Example 5** — Award Name, Organization
-        - **Example 6** — Award Name, Organization
-        - **Example 7** — Award Name, Organization
-        - **Example 8** — Award Name, Organization
-        - **Example 9** — Award Name, Organization
-        - **Example 10** — Award Name, Organization
+        - **PQG Travel Award** (2026)
+        - **NSF Travel Award for the ICSA Applied Statistics Symposium** (2025)
+        - **"Zhong Jiaqing" Award in Probability and Statistics** (2023)
+        - **Outstanding Doctoral Dissertation** (2024)
+        - **Outstanding Graduate of Beijing** (2024)
+        - **Outstanding Graduate of Tsinghua University** (2024)
+        - **President Scholarship** (Only awarded to 20 students) (2021)
+        - **The 1st Prize "RONG" Scholarship** (2021)
+        - **"BeiGene" Paper Award for Youth Scholars, Outstanding paper** (2020 & 2021)
     design:
       columns: '1'
   - block: collection
