@@ -47,7 +47,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Publications 📖
       filters:
         folders:
           - publication
@@ -57,7 +57,7 @@ sections:
       columns: 3
   - block: collection
     content:
-      title: Recent Publications
+      title: Recent Publications 📜
       text: ""
       count: 0
       filters:
@@ -72,7 +72,7 @@ sections:
   - block: markdown
     id: awards
     content:
-      title: Awards
+      title: Awards 🏆
       subtitle: ''
       text: |-
         - PQG Travel Award (2026)
@@ -89,7 +89,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Talks 📅
       filters:
         folders:
           - event
@@ -99,7 +99,7 @@ sections:
   - block: markdown
     id: software
     content:
-      title: Software
+      title: Software 🔑
       subtitle: ''
       text: |-
         <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px;">
@@ -153,7 +153,7 @@ sections:
   - block: markdown
     id: service
     content:
-      title: Service
+      title: Service 👩‍💻
       subtitle: ''
       text: |-
         **Reviewer:**
@@ -174,7 +174,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Recent News 📰
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
