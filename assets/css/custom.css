@@ -12,14 +12,16 @@
   line-height: 1.25;
   margin: 0 0 0.15rem 0;
   color: #111827;
+  white-space: nowrap;
 }
 
 /* Role / degree line below */
 .resume-biography .description .course {
   order: 2;
   font-size: 1.0rem;
-  font-weight: 400;
+  font-weight: 460;
   line-height: 1.35;
   margin: 0;
   color: #1f2937;
+  white-space: pre;
 }

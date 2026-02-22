@@ -55,7 +55,9 @@ education:
     #end: '2024'
     #date_display: '2024 - Present'
     #summary: '2022 - Present'  
-  - area: Ph.D. in Statistics (2019-2024); B.S. in Mathematics (2015-2019)
+  - area: |-
+      Ph.D. in Statistics (2019-2024)
+      B.S. in Mathematics (2015-2019)
     institution: Tsinghua University
     date_start: 2015-01-01
     date_end: 2024-01-01
