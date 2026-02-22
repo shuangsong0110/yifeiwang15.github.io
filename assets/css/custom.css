@@ -1,14 +1,53 @@
-/* 让整行正常显示 */
-/*.description p.text-sm {
-  font-weight: normal;
-}*/
-
-/* 只让前面的部分加粗（通过覆盖第一个文本节点） */
-/*.description p.text-sm {
-  font-weight: 700;
-  display: inline;
+/* Education block typography */
+.resume-biography .description,
+.wg-resume-biography-3 .description {
+  display: flex;
+  flex-direction: column;
 }
 
-.description p.text-sm::after {
-  font-weight: normal;
-}*/
+/* School line */
+.resume-biography .description .text-sm,
+.wg-resume-biography-3 .description .text-sm {
+  order: 1;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0 0 0.15rem 0;
+  color: #111827;
+  white-space: pre-line;
+}
+
+/* Role/degree line */
+.resume-biography .description .course,
+.wg-resume-biography-3 .description .course {
+  order: 2;
+  font-size: 1rem;
+  font-weight: 460;
+  line-height: 1.35;
+  margin: 0;
+  color: #1f2937;
+  white-space: pre;
+}
+
+/* Reliable spacing between entries: apply on description itself */
+.resume-biography .education .description,
+.wg-resume-biography-3 .education .description,
+.education .description {
+  margin-bottom: 1.6rem !important;
+}
+
+.resume-biography .education li:last-child .description,
+.wg-resume-biography-3 .education li:last-child .description,
+.education li:last-child .description {
+  margin-bottom: 0 !important;
+}
+
+/* Force visible spacing between education rows across theme DOM variants */
+.wg-resume-biography-3 .education li + li,
+.resume-biography .education li + li,
+.wg-resume-biography-3 .ul-edu li + li,
+.resume-biography .ul-edu li + li,
+.wg-resume-biography-3 .education .flex-row + .flex-row,
+.resume-biography .education .flex-row + .flex-row {
+  margin-top: 1.25rem !important;
+}
