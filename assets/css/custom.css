@@ -12,7 +12,7 @@
   line-height: 1.25;
   margin: 0 0 0.15rem 0;
   color: #111827;
-  white-space: nowrap;
+  white-space: pre-line;
 }
 
 /* Role / degree line below */
@@ -24,4 +24,14 @@
   margin: 0;
   color: #1f2937;
   white-space: pre;
+}
+
+
+/* Increase spacing between education entries */
+.resume-biography .education li {
+  margin-bottom: 0.9rem;
+}
+
+.resume-biography .education li:last-child {
+  margin-bottom: 0;
 }

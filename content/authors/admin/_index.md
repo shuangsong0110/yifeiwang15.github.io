@@ -70,7 +70,9 @@ education:
     date_start: 2022-01-01
     date_end: 2023-01-01
   - area: Algorithm Intern (2021)
-    institution: Kuang-chi Institute of Advanced Science and Technology
+    institution: |-
+      Kuang-chi Institute of Advanced
+      Science and Technology
     date_start: 2021-01-01
     date_end: 2021-12-31
 
