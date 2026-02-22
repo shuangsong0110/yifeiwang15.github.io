@@ -99,13 +99,22 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: Teaching
+      title: Service & Teaching
       subtitle: ''
       text: |-
-        - **Example 1** — Teaching Assistant for Course Name (Semester)
-        - **Example 2** — Teaching Assistant for Course Name (Semester)
-        - **Example 3** — Instructor for Course Name (Semester)
-        - **Example 4** — Guest Lecturer for Topic (Semester)
+        **Service: Reviewer for**
+        - Nature Communications
+        - The American Journal of Human Genetics
+        - npj Digital Medicine
+        - IEEE/ACM Transactions on Computational Biology and Bioinformatics
+        - BMC Bioinformatics
+        - BMC Medicine
+        - Scientific Reports
+
+        **Teaching:**
+        1. Teaching Assistant for Probability Theory (2021)
+        2. Teaching Assistant for the Science and Art of Data Analysis (2021)
+        3. Teaching Assistant for Mathematics History (2020 & 2021)
     design:
       columns: '1'
   - block: collection
