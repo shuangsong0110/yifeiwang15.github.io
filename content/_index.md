@@ -75,16 +75,16 @@ sections:
       title: Awards
       subtitle: ''
       text: |-
-        1. Example 1 — Award Name, Organization
-        2. Example 2 — Award Name, Organization
-        3. Example 3 — Award Name, Organization
-        4. Example 4 — Award Name, Organization
-        5. Example 5 — Award Name, Organization
-        6. Example 6 — Award Name, Organization
-        7. Example 7 — Award Name, Organization
-        8. Example 8 — Award Name, Organization
-        9. Example 9 — Award Name, Organization
-        10. Example 10 — Award Name, Organization
+        - **Example 1** — Award Name, Organization
+        - **Example 2** — Award Name, Organization
+        - **Example 3** — Award Name, Organization
+        - **Example 4** — Award Name, Organization
+        - **Example 5** — Award Name, Organization
+        - **Example 6** — Award Name, Organization
+        - **Example 7** — Award Name, Organization
+        - **Example 8** — Award Name, Organization
+        - **Example 9** — Award Name, Organization
+        - **Example 10** — Award Name, Organization
     design:
       columns: '1'
   - block: collection
@@ -97,6 +97,18 @@ sections:
     design:
       view: article-grid
       columns: 3
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      subtitle: ''
+      text: |-
+        - **Example 1** — Teaching Assistant for Course Name (Semester)
+        - **Example 2** — Teaching Assistant for Course Name (Semester)
+        - **Example 3** — Instructor for Course Name (Semester)
+        - **Example 4** — Guest Lecturer for Topic (Semester)
+    design:
+      columns: '1'
   - block: collection
     id: news
     content:
